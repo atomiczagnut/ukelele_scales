@@ -1,4 +1,4 @@
-#Ukelele Scale Finder
+# Ukelele Scale Finder
 
 An app that displays ukelele scales using SVG.
 
