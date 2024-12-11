@@ -9,4 +9,4 @@ Currently, just displays the C Major scale, and I need to implement functionalit
 TODO:
 
 * Add a dropdown menu to display more scales
-* Implement functionality or the high G string
+* Implement functionality for the high G string
