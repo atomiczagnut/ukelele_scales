@@ -9,7 +9,7 @@ scaleDict ={
 	"C Major": [60, 62, 64, 65, 67, 69, 71, 72],
 	"C Minor": [60, 62, 63, 65, 67, 68, 70, 72],
 	"C Blues": [60, 63, 65, 66, 67, 71, 72],
-	"C Spanish": [60, 61, 64, 65, 67, 68, 70,72],
+	"C Spanish": [60, 61, 64, 65, 67, 68, 70, 72],
 }
 
 # Dictionary that stores x, y values of notes
