@@ -2,12 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/ukelele_scales/FileContentIndex/5e971b60-77fd-4e26-bf89-a2f145416c8b.vsidx
-/.vs/ukelele_scales/FileContentIndex/0c3dfa81-42b1-4d34-b46f-2d900fa02a02.vsidx
-/.vs/ukelele_scales/FileContentIndex/347a708e-a601-4698-a669-c7c0bafc92e5.vsidx
-/.vs/ukelele_scales/FileContentIndex/3e1d3ca5-b92f-43b5-b3e4-02cebb29027f.vsidx
-/.vs/ukelele_scales/FileContentIndex/b1a5e8fb-0fe7-4f6d-bcb4-006e0ea703d5.vsidx
-/.vs/ukelele_scales/FileContentIndex/5167ff5a-21c9-41a9-9ba6-c6531fe51e91.vsidx
-/.vs/ukelele_scales/v17/.wsuo
-/.vs/ukelele_scales/v17/DocumentLayout.backup.json
-/.vs/ukelele_scales/v17/DocumentLayout.json
+.vs/
