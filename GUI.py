@@ -1,6 +1,15 @@
 # The functions which control the GUI
 
 def draw_fretboard(canvas):
+	"""
+	Draws the fretboard to the Tkinter canvas.
+	
+	Args: 
+		canvas: Tkinter canvas object.
+		
+	Returns:
+		None.
+	"""
 	canvas.create_line(50, 50, 50, 450)
 	canvas.create_line(100, 50, 100, 450)
 	canvas.create_line(150, 50, 150, 450)
@@ -16,6 +25,17 @@ def draw_fretboard(canvas):
 	canvas.create_line(50, 450, 200, 450)
 
 def draw_note(x, y, canvas):
+	"""
+	Draws a circle on the fretboard where the note should be.
+
+	Args:
+		x (int): Which string to draw the note on
+		y (int): How far down on the string to draw the note
+		canvas: Tkinter canvas object
+
+	Returns:
+		None.   
+	"""
 	x0 = x - 10
 	y0 = y - 10
 	x1 = x + 10
