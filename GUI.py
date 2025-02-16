@@ -1,4 +1,3 @@
-
 # The functions which control the GUI
 
 def draw_fretboard(canvas):
