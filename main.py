@@ -12,7 +12,7 @@ canvas.pack()
 
 draw_fretboard(canvas)
 
-scale = scaleDict["C Blues"]
+scale = scaleDict["C Major"]
 
 for note in scale:
     draw_note(noteDict[note][0], noteDict[note][1], canvas)
