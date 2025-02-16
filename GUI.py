@@ -44,3 +44,6 @@ def draw_note(x: int, y: int, canvas) -> None:
 		canvas.create_oval(x0, y0, x1, y1) # Open circle indicates open string
 	else:
 		canvas.create_oval(x0, y0, x1, y1, fill = "black") # Filled circle indicates finger
+
+def create_scale_menu(canvas):
+	pass
