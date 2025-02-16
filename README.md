@@ -5,7 +5,6 @@ An app that displays ukelele scales using Tkinter.
 Take scales from a list based on MIDI notes, and display the scales on a tablature style grid. 
 
 TODO:
-* Add typing to all functions
 * Add unit tests for all dictionaries and functions
 * Add a dropdown menu to display more scales
 * Seperate into two drop down menus for scale and key
