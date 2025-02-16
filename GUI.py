@@ -24,7 +24,7 @@ def draw_fretboard(canvas):
 	canvas.create_line(50, 400, 200, 400)
 	canvas.create_line(50, 450, 200, 450)
 
-def draw_note(x, y, canvas):
+def draw_note(x: int, y: int, canvas):
 	"""
 	Draws a circle on the fretboard where the note should be.
 
