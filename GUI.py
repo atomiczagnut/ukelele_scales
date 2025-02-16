@@ -1,3 +1,4 @@
+
 # The functions which control the GUI
 
 def draw_fretboard(canvas):
@@ -24,7 +25,3 @@ def draw_note(x, y, canvas):
 		canvas.create_oval(x0, y0, x1, y1) # Open circle indicates open string
 	else:
 		canvas.create_oval(x0, y0, x1, y1, fill = "black") # Filled circle indicates finger
-
-def dropdown_menu(canvas):
-	pass
-

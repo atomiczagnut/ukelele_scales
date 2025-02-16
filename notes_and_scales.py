@@ -1,3 +1,4 @@
+
 # The collections which define the notes and scales
 
 # Dictionary that defines the scales
@@ -34,3 +35,4 @@ noteDict = {
 	75: (200, 350),
 	76: (200, 400),
 }
+
