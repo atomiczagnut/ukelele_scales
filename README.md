@@ -1,12 +1,13 @@
 # Ukelele Scale Finder
 
-An app that displays ukelele scales using Tkinter and SVG.
+An app that displays ukelele scales using Tkinter.
 
-Take scales, and dislay the scales on a tablature style grid. 
-
-Currently, just displays the C Major scale, and I need to implement functionality for the high G string.
+Take scales from a list based on MIDI notes, and display the scales on a tablature style grid. 
 
 TODO:
-
+* Add docstrings to all functions
+* Add typing to all functions
 * Add a dropdown menu to display more scales
+* Seperate into two drop down menus for scale and key
 * Implement functionality for the high G string
+* Highlight the root note of the scale in red
