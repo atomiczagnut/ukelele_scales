@@ -6,6 +6,7 @@ Take scales from a list based on MIDI notes, and display the scales on a tablatu
 
 TODO:
 * Add typing to all functions
+* Add unit tests for all dictionaries and functions
 * Add a dropdown menu to display more scales
 * Seperate into two drop down menus for scale and key
 * Implement functionality for the high G string
